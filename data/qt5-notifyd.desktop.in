@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=@PROJECT@
+Comment=Simple notification daemon because everything else sucks
+Categories=System;
+Exec=@BIN_LOCATION@@PROJECT@
